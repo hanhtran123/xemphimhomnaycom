@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+XemPhimHomNay - Trải Nghiệm Xem Phim Miễn Phí, Chất Lượng Cao
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Xem Phim Online <https://xemphimhomnay.com/>`_ là trang web cung cấp dịch vụ xem phim trực tuyến miễn phí, mang đến cho bạn hàng ngàn bộ phim chất lượng cao với đa dạng thể loại và quốc gia. Tại XemPhimHomNay, người dùng có thể dễ dàng lựa chọn phim lẻ, phim bộ, phim chiếu rạp, và các thể loại đặc biệt như phim 18+. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Ngoài ra, XemPhimHomNay còn cập nhật những tin tức phim mới nhất, giúp bạn không bỏ lỡ những siêu phẩm như Dragon Ball Super: Super Hero, Hellboy: The Crooked Man, và Joker: Folie à Deux. Hãy ghé thăm XemPhimHomNay để trải nghiệm kho tàng phim phong phú và đắm mình trong những giây phút giải trí thú vị!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 94/8 Đường số 8, Bình Hưng Hoà, Bình Tân, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0963232107. 
 
-.. toctree::
+Email: info@xemphimhomnay.com. 
 
-   usage
-   api
+Website: https://xemphimhomnay.com/ 
+
+#xemphimhomnay #trangchuxemphimhomnay#dangkyxemphimhomnay#dangnhapxemphimhomnay#linkxemphimhomnay
